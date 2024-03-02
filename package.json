@@ -1,0 +1,26 @@
+{
+"name": "5mage21-ecognition",
+"version": "1.0.0",
+"description": "An advanced image recognition tool powered by deep learning algorithms. It can accurately identify objects, scenes, and faces in images, making it a valuable asset for various applications such as content moderation, visual search, and automated tagging.",
+"main": "index.js",
+"scripts": {},
+"repository": {
+"type": "git",
+"url": "https://github.com/hellerd1921/-ImageRecognitionTool.git"
+},
+"keywords": [
+"sample",
+"npm",
+"package"
+],
+"author": "hellerd1921",
+"license": "MIT",
+"dependencies": {
+"lodash": "^4.17.21",
+"axios": "^0.21.1"
+},
+"peerDependencies": {
+"react": ">=16.8.0",
+"react-dom": ">=16.8.0"
+}
+}
